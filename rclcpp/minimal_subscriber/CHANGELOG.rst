@@ -2,6 +2,12 @@
 Changelog for package examples_rclcpp_minimal_subscriber
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.7.3 (2019-05-29)
+------------------
+
+0.7.2 (2019-05-20)
+------------------
+
 0.7.1 (2019-05-08)
 ------------------
 * Avoid deprecated API's by providing history settings (`#240 <https://github.com/ros2/examples/issues/240>`_)
